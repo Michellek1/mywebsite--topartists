@@ -1,0 +1,54 @@
+ #selenagomez h1{
+    color: black;
+    font-family: 'Diplomata SC', cursive;
+    font-size: 40px;
+}
+
+
+
+ #selenagomez p{
+    background-color: white;
+    text-align: center
+    
+}
+
+ #selenagomez img {
+    border-radius: 30%;
+    display: block;
+    margin: 0 auto;
+    border: 5px yellow;
+}
+
+ #selenagomez h2 {
+    color: red;
+    text-align-last: center
+}
+#selenagomez h3 {
+    color: red;
+    text-align: center
+    
+    
+}
+#selenagomez p {
+    color: black;
+}
+#justinbieber h1 {
+    color: grey;
+    font-size: 60px;
+    font-family: 'Griffy', cursive;
+    text-align: center
+}
+#justinbieber img {
+    border-radius: 30%;
+    display: block;
+    margin: 0 auto;
+    border: 5px solid black;
+    
+    #justinbieber p {
+        color: green;
+    }
+    #justinbieber h2 {
+        color: red;
+        text-align-last: center
+    }
+    
