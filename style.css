@@ -1,16 +1,31 @@
+h1#tittle {
+    font-size: 80px;
+    color: red;
+    font-family: 'Lobster Two', cursive;
+    text-align: center;
+    background-color:pink;
+} 
+ 
  #selenagomez h1{
     color: black;
-    font-family: 'Diplomata SC', cursive;
+    font-family: 'Fascinate Inline', cursive;
     font-size: 40px;
+    transition: all 0.3s ease-in-out;
 }
 
+#selenagomez:hover {
+    background-color: #f442ce
+}
 
+ #selenagomez {
+     background-color: pink;
+ }
 
  #selenagomez p{
-    background-color: white;
     text-align: center
     
 }
+
 
  #selenagomez img {
     border-radius: 30%;
@@ -25,30 +40,262 @@
 }
 #selenagomez h3 {
     color: red;
-    text-align: center
-    
-    
+    text-align: center;
+    font-size:30px;
 }
 #selenagomez p {
     color: black;
 }
+#justinbieber {
+    background-color: blue;
+}
+
+
 #justinbieber h1 {
     color: grey;
     font-size: 60px;
     font-family: 'Griffy', cursive;
-    text-align: center
+    text-align: center;
+    transition:all 0.3s ease-in-out;
+}
+#justinbieber:hover {
+    background-color:green;
 }
 #justinbieber img {
     border-radius: 30%;
     display: block;
     margin: 0 auto;
     border: 5px solid black;
+}
     
-    #justinbieber p {
-        color: green;
-    }
-    #justinbieber h2 {
+ #justinbieber p {
+        color: black;
+        text-align: center;
+}
+    
+#justinbieber h2 {
         color: red;
         text-align-last: center
-    }
+}
+#justinbieber h3 {
+    color: red;
+    text-align: center;
+    font-size: 30px;
+}   
+#beyonce {
+    background-color: grey;
     
+}
+#beyonce h1 {
+    font-size: 70px;
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    transition:all 0.3s ease-in-out;
+}
+#beyonce:hover {
+    background-color: #dc41f4;
+}
+#beyonce h2 {
+    color: red;
+    text-align: center;
+}
+#beyonce img {
+    border-radius: 30%;
+    display: block;
+    margin: 0 auto;
+    border: 5px red;
+}
+#beyonce p {
+    color: yellow;
+    text-align: center;
+}
+#beyonce h3 {
+    color: yellow;
+    text-align: center;
+    font-size: 30px;
+}
+#kimkardahsian {
+    background-color: #f4c141;
+}
+#kimkardahsian h1 {
+    font-size: 60px;
+    font-family: 'Cookie', cursive;
+    text-align: center;
+    transition:all 0.3s ease-in-out;
+}
+#kimkardahsian:hover {
+    background-color: #f46d41;
+}
+#kimkardahsian img {
+    border-radius: 30%;
+    display: block;
+    margin: 0 auto;
+    border: 5px black;
+}
+#kimkardahsian h2{
+    font-size: 30px;
+    text-align: center
+}
+#kimkardahsian p {
+    text-align: center;
+    
+}
+#kimkardahsian h3{
+    font-size: 30px;
+    text-align: center;
+}
+#edsheeran {
+  background-color: orange;
+}
+
+#edsheeran h1 {
+    color: blue;
+    font-size: 60px;
+    font-family: 'Permanent Marker', cursive;
+    text-align: center;
+    transition:all 0.3s ease-in-out;
+}
+
+#edsheeran:hover {
+    background-color: #41f455;
+}
+
+#edsheeran h2 {
+    color: blue;
+    font-size: 30px;
+    text-align: center
+}
+#edsheeran img {
+    border-radius: 30%;
+    display: block;
+    margin: 0 auto;
+    border: 5px black;
+}
+#edsheeran p {
+    text-align: center
+}
+#edsheeran h3 {
+    color: blue;
+    font-size: 30px;
+    text-align: center
+}
+#rihanna {
+ background-color : #f47a42;
+}
+#rihanna h1 {
+    color: yellow;
+    font-size: 60px;
+    font-family: 'Jim Nightshade', cursive;
+    text-align: center;
+}
+#rihanna img {
+    border-radius: 30%;
+    display: block;
+    margin: 0 auto;
+    border: 5px black;
+}
+#rihanna h2 {
+    font-size: 30px;
+    color: yellow;
+    text-align: center;
+}
+#rihanna p {
+    text-align: center;
+}
+#rihanna h3 {
+    font-size: 30px;
+    text-align: center;
+    color:yellow;
+}
+#nickiminaj {
+    background-color: purple;
+}
+#nickiminaj h1 {
+    font-size: 60px;
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+}
+ img {
+    border-radius: 30%;
+    display: block;
+    margin: 0 auto;
+    border: 5px black;
+}
+#nickiminaj h2 {
+    font-size: 30px;
+    color: pink;
+    text-align: center;
+    }
+#nickiminaj p {
+    text-align: center;
+}
+ h3 {
+    font-size: 30px;
+    text-align: center
+}
+#nickiminaj h3 {
+    color: pink;
+}
+#drake {
+    background-color: #9bf441
+}
+#drake h1 {
+    font-size: 60px;
+    text-align: center;
+    font-family: 'Righteous', cursive;
+}
+h2 {
+    font-size: 30px;
+    text-align: center;
+}
+#drake h3 {
+    color: yellow;
+}
+#drake h2 {
+    color: yellow;
+}
+p {
+    text-align: center;
+}
+#mileycyrus {
+    background-color: #f44149
+}
+#mileycyrus h1 {
+    font-size: 60px;
+    text-align: center;
+    font-family: 'Rock Salt', cursive;
+}
+#mileycyrus h2 {
+    color: pink;
+}
+#mileycyrus h3 {
+    color: pink;
+}
+#madisonbeer {
+    background-color: #41d3f4
+}
+#madisonbeer h1 {
+    font-size: 60px;
+    text-align: center;
+    font-family: 'Lemonada', cursive;
+}
+#madisonbeer h2 {
+    color: #dc41f4;
+}
+#madisonbeer h3 {
+    color: #dc41f4;
+}
+nav {
+    padding: 30px;
+    text-align: center;
+}
+nav a {
+    text-decoration: none;
+    font-size: 30px;
+    margin: 20px;
+    color: #41f4ee;
+    transition: all 0.3s ease-in-out;
+}
+nav a:hover {
+    color: #dc41f4;
+}
