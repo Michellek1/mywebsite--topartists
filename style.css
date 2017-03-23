@@ -10,6 +10,7 @@ h1#tittle {
     color: black;
     font-family: 'Fascinate Inline', cursive;
     font-size: 40px;
+    text-align: center;
     transition: all 0.3s ease-in-out;
 }
 
@@ -59,7 +60,7 @@ h1#tittle {
     transition:all 0.3s ease-in-out;
 }
 #justinbieber:hover {
-    background-color:green;
+    background-color:#41f4d9;
 }
 #justinbieber img {
     border-radius: 30%;
@@ -187,6 +188,10 @@ h1#tittle {
     font-size: 60px;
     font-family: 'Jim Nightshade', cursive;
     text-align: center;
+    transition:all 0.3s ease-in-out;
+}
+#rihanna:hover {
+    background-color: #7941f4;
 }
 #rihanna img {
     border-radius: 30%;
@@ -214,6 +219,10 @@ h1#tittle {
     font-size: 60px;
     text-align: center;
     font-family: 'Orbitron', sans-serif;
+    transition:all 0.3s ease-in-out;
+}
+#nickiminaj:hover {
+    background-color: #f4418b;
 }
  img {
     border-radius: 30%;
@@ -243,6 +252,10 @@ h1#tittle {
     font-size: 60px;
     text-align: center;
     font-family: 'Righteous', cursive;
+    transition:all 0.3s ease-in-out;
+}
+#drake:hover {
+    background-color: #4173f4;
 }
 h2 {
     font-size: 30px;
@@ -264,6 +277,10 @@ p {
     font-size: 60px;
     text-align: center;
     font-family: 'Rock Salt', cursive;
+    transition:all 0.3s ease-in-out;
+}
+#mileycyrus:hover {
+    background-color: #f4df41;
 }
 #mileycyrus h2 {
     color: pink;
@@ -278,6 +295,10 @@ p {
     font-size: 60px;
     text-align: center;
     font-family: 'Lemonada', cursive;
+    transition:all 0.3s ease-in-out;
+}
+#madisonbeer:hover {
+    background-color: #f44141;
 }
 #madisonbeer h2 {
     color: #dc41f4;
@@ -298,4 +319,13 @@ nav a {
 }
 nav a:hover {
     color: #dc41f4;
+}
+
+li {
+    text-align: center;
+    list-style: none;
+    font-size: 40px;
+}
+p {
+    font-size: 25px;
 }
